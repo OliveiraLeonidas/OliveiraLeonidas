@@ -8,9 +8,9 @@
 <p align="justify" dir="auto">
 Tenho 23 anos, sou apaixonado por programação e estou atualmente estudando Engenharia da Computação. Tenho um interesse especial em desenvolvimento de software e estou constantemente em busca de aprimorar minhas habilidades em linguagens de programação, estruturas de dados e algoritmos.
 
-Acredito ter uma abordagem muito prática, pois entendo que a melhor maneira de aprender é através da prática e da experiência, além, é claro, da parte teórica e de ler as documentações, e estou sempre procurando novos desafios para expandir meu conhecimento. Tenho grandes ambições para o futuro e espero um dia ser um programador experiente e respeitado.
+Acredito ter uma abordagem muito prática, pois entendo que a melhor maneira de aprender é através da prática e da experiência, além, é claro, da parte teórica e de ler as documentações das tecnologias que desejo aprender, estou sempre procurando novos desafios para expandir meu conhecimento. Tenho grandes ambições para o futuro e espero um dia ser um programador experiente e respeitado.
 
-E, além de estar cursando Engenharia da Computação, estou dedicando parte do seu tempo livre para estudar desenvolvimento front-end por meio de cursos livres na plataforma da Alura. Acredito ser importante se manter atualizado com as novas tecnologias e tendências da indústria, e a Alura é uma ótima maneira de aprender e praticar habilidades em tecnologias front-end, como HTML, CSS, JavaScript, entre outras.
+E, além de estar cursando Engenharia da Computação, estou dedicando parte do meu tempo livre para estudar desenvolvimento front-end por meio de cursos livres na plataforma da Alura. Acredito ser importante se manter atualizado com as novas tecnologias e tendências da indústria, e a Alura é uma ótima maneira de aprender e praticar habilidades em tecnologias front-end, como HTML, CSS, JavaScript, entre outras.
 
 Todas as etapas que estou passando, por mais difíceis que sejam, e que eu passe muita raiva em alguns momentos hehe, me mostram que escolhi o caminho certo.
 </p>
