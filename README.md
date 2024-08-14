@@ -5,7 +5,10 @@
 
 ### ☺️ Sobre
 <p align="justify" dir="auto">
-Meu objetivo principal é me tornar um desenvolvedor.
+
+Em busca de uma oportunidade para desenvolvimento fullstack, comecei com alguns cursos e depois me aventurei sendo autoditada, não é fácil, porém me esforço ao máximo para estudar desenvolvimento de aplicações. 
+Sou uma pessoa introvertida, mas apesar disso me esforço para sempre me comunicar com as pessoas, gosto de séries, ouvir músicas e assistir vídeos no youtube, seja de programação ou assuntos aleatórios.
+
  
 <br><br>
 
