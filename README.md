@@ -6,7 +6,8 @@
 ### ☺️ Sobre
 <p align="justify" dir="auto">
 
-Em busca de uma oportunidade para desenvolvimento fullstack, comecei com alguns cursos e depois me aventurei sendo autoditada, não é fácil, porém me esforço ao máximo para estudar desenvolvimento de aplicações. 
+Desenvolvedor Júnior na Venturus - Innovation & Technology.
+
 Sou uma pessoa introvertida, mas apesar disso me esforço para sempre me comunicar com as pessoas, gosto de séries, ouvir músicas e assistir vídeos no youtube, seja de programação ou assuntos aleatórios.
 
  
@@ -14,6 +15,8 @@ Sou uma pessoa introvertida, mas apesar disso me esforço para sempre me comunic
 
 ### :computer: Tecnologias e ferramentas que mais tenho contato atualmente:
 <code><img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></code>
+<code><img title="Axios" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain-wordmark.svg" width="40" height="40"/> </code>
+<code><img title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-plain.svg" width="50" height="50"/></code>
 <code><img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/></code>
 <code><img title="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40"/></code>
 <code><img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></code>
@@ -25,8 +28,6 @@ Sou uma pessoa introvertida, mas apesar disso me esforço para sempre me comunic
 <code><img title="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /></code>
 <code><img title="GITHUB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /></code>
 
-
- 
 
 <br>
 <!-- 
