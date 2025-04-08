@@ -6,9 +6,9 @@
 ### ☺️ Sobre
 <p align="justify" dir="auto">
 
-Desenvolvedor Júnior na Venturus - Innovation & Technology.
+Desenvolvedor Backend Jr.
 
-Sou uma pessoa introvertida, mas apesar disso me esforço para sempre me comunicar com as pessoas, gosto de séries, ouvir músicas e assistir vídeos no youtube, seja de programação ou assuntos aleatórios.
+Sempre em busca de me aprimorar na área de programação para sempre me tornar um melhor profissional.
 
  
 <br><br>
