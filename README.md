@@ -76,7 +76,7 @@ I'm a Backend Developer with experience in Fullstack development using React.js 
 
 <br/>
 
-## 🛠️ Ferramentas & Utilitários
+## 🛠️ Tools
 <p>
   <img title="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/>
   <img title="Axios" src="https://axios-http.com/assets/logo.svg" alt="Axios" width="40" height="40"/>
