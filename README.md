@@ -1,11 +1,15 @@
 
 
-#
+# Hi, welcome..
+
+
+
+I'm a Backend Developer with experience in Fullstack development using React.js (Next.js) and Node.js (NestJS). In a previous role, I worked across the entire stack, building web applications. Currently, I'm focused on backend development, working with Java and Spring Boot, where I've deepened my skills in authentication, API design, and database integration. I'm always ready to learn new technologies and adapt quickly to different stacks.
 
 <br/>
 <br/>
 
-## Como me entrar em contato
+## How to contact me
 
 <section>
   <a href="mailto:oliveiraleonidas99@gmail.com" target="_blank">
@@ -78,7 +82,7 @@
   <img title="Axios" src="https://axios-http.com/assets/logo.svg" alt="Axios" width="40" height="40"/>
   <img title="Zod" src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" alt="Zod" width="40" height="40"/>
   <img title="Prisma" src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkSymbol.svg" alt="Prisma" width="40" height="40"/>
-  <img title="TypeORM" src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" alt="TypeORM" width="40" height="40"/>
+  <img title="TypeORM" src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" alt="TypeORM" width="50" height="40"/>
   <img title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>
   <img title="NPM" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
   <img title="Jest" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
@@ -98,15 +102,14 @@
     />
   </a>
 
-<!--   
-<a href="https://github.com/username_github/repo_url">
+<a href="https://github.com/OliveiraLeonidas/plann.er">
     <img
       height="120"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=username_github&repo=repo_url&theme=material-palenight&hide_border=true"
-      alt="repo name"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=OliveiraLeonidas&repo=plann.er&theme=material-palenight&hide_border=true"
+      alt="Plann.er"
     />
   </a>
-  -->
+
 </div>
 
 <br/>
