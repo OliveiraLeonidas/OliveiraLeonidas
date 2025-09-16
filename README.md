@@ -1,15 +1,15 @@
 
 
-# Hi, welcome..
+# Olá.
 
+### Sobre
 
-
-I'm a Backend Developer with experience in Fullstack development using React.js (Next.js) and Node.js (NestJS). In a previous role, I worked across the entire stack, building web applications. Currently, I'm focused on backend development, working with Java and Spring Boot, where I've deepened my skills in authentication, API design, and database integration. I'm always ready to learn new technologies and adapt quickly to different stacks.
+Sou Desenvolvedor Backend com experiência em desenvolvimento Fullstack utilizando React.js (Next.js) e Node.js (NestJS), bem como Java e Spring Boot. Em projetos anteriores, atuei em todo o ciclo de desenvolvimento, construindo aplicações web completas desde o frontend até as APIs. Atualmente, estou focado no desenvolvimento backend. Tenho facilidade para aprender novas tecnologias e me adaptar rapidamente a diferentes stacks, sempre encarando cada projeto como uma oportunidade de crescimento e aplicação das melhores práticas de desenvolvimento.
 
 <br/>
 <br/>
 
-## How to contact me
+## Como entrar em contato
 
 <section>
   <a href="mailto:oliveiraleonidas99@gmail.com" target="_blank">
